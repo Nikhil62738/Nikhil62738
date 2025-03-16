@@ -1,4 +1,4 @@
-![logo](https://github.com/NikhilChopade/NikhilChopade/blob/main/banner.jpg)
+![logo](https://github.com/Nikhil62738/Nikhil62738/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Nikhil Chopade</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <br>
@@ -20,11 +20,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/rajat_2907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajat_2907" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/nikhil-chopade-b9421625b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajat-petkar-515416223/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nikhil_chopade_nc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajat_petkar_in" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikhil-chopade-b9421625b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-chopade-b9421625b/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nikhil_chopade_nc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nikhil Chopade" height="30" width="40" /></a>
+  
 <!-- <a href="https://www.codechef.com/users/rajat_petkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajat_petkar" height="30" width="40" /></a> -->
-<a href="https://www.hackerrank.com/profile/nikhilchopade241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajatpetkar250" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/nikhil6273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajatpetkar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/nikhilchopade241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikhilchopade241" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/nikhil6273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Nikhil Chopade" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/nikhilchopzl8k/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks - Nikhil Chopade" height="30" width="40" />
+</a>
 </p>
 </p>
 
