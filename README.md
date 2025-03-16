@@ -1,4 +1,4 @@
-![logo](https://github.com/NikhilChopade/NikhilChopade/blob/main/new-banner.jpg)
+![logo](https://github.com/NikhilChopade/NikhilChopade/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Nikhil Chopade</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <br>
