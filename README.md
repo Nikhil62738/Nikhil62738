@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning ** DSA**
 
-- 👨‍💻 All of my projects are available at [https://https://nikhilchopade.netlify.app//](https://nikhilchopade.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://nikhilchopade.netlify.app/)
 
 - 💬 Ask me about **Web Devlopement , DSA**
 
