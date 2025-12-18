@@ -50,7 +50,7 @@
 <h4 align="center">Top Languages</h4>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NikhilChopade&show_icons=true&locale=en&layout=compact" alt="NikhilChopade" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?=NikhilChopade&show_icons=true&locale=en&layout=compact" alt="NikhilChopade" />
 </p>
 
 </p>
